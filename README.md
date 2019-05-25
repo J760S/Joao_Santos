@@ -4,6 +4,6 @@ My name is João Santos and I am in the 3rd year of the Bachelor’s in Economic
 
                                                   Train Hard, Fight Easy!
 
-Contacts:
+## Contacts:
 
 28990@novasbe.pt
